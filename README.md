@@ -47,11 +47,11 @@ CSV를 받아 분석하는 것에서 시작해, 지금은 그 데이터가 스�
 
 <br>
 
-<sub></sub> &nbsp;&nbsp; `Python` `SQL` 'Docker' 'Java' 'C'
+<sub></sub> &nbsp;&nbsp;&nbsp;&nbsp; `Python` `SQL` 'Docker' 'Java' 'C'
 
 <sub>**프로젝트 적용**</sub> &nbsp;&nbsp; `pandas` `Git / GitHub`
 
-<sub>**학습 중**</sub> &nbsp;&nbsp; `Airflow` `Kafka' 'Hadoop'
+<sub>**학습 중**</sub> &nbsp;&nbsp; `Airflow` `Kafka' 
 
 <br>
 <br>
