@@ -19,12 +19,12 @@
 <br>
 
 > [!NOTE]
-> 데이터를 '분석 대상'이 아니라 '흘러가는 시스템'으로 보게 된 것이
-> 데이터 엔지니어링에 관심을 갖게 된 계기입니다.
 
-정보통신공학에서 시스템과 네트워크를, 데이터사이언스에서 데이터를 다루는 법을 배웠습니다.
-한 번 돌고 끝나는 코드보다 매일 안정적으로 도는 파이프라인에 관심이 많습니다.
-CSV를 받아 분석하는 것에서 시작해, 지금은 그 데이터가 스스로 쌓이게 만드는 쪽을 공부하고 있습니다.
+My background in Information and Communications Engineering gave me a foundation in systems and networks, while Data Science taught me how to work with data itself.
+
+What draws me is not code that runs once, but pipelines that run reliably, every single day.
+
+I began by analyzing CSV files handed to me; now I'm focused on building the systems that collect that data automatically.
 
 <br>
 
