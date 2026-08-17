@@ -18,7 +18,6 @@
 
 <br>
 
-> [!NOTE]
 
 My background in Information and Communications Engineering gave me a foundation in systems and networks, while Data Science taught me how to work with data itself.
 
